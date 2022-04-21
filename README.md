@@ -12,7 +12,7 @@ The Foundations block comprises of two courses where we get our hands dirty with
 | Index | Status |
 | :-: | :-: |
 | Python for AI & ML |InProgress |
-| Applied Statistics | |
+| Applied Statistics |InProgress |
 
 ## Machine Learning
 The ML block will teach us Machine Learning techniques and all the popularly used in Classical ML algorithms that fall in each of the categories.
