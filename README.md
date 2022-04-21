@@ -39,9 +39,13 @@ The AI block will take us beyond the traditional ML into the realm of Neural Net
 - [ ] Reinforcement Learning
 
 ## Project Links
-**:clipboard:01. [Statistical Learning(Applied Satistics)](https://github.com/shruti18j/GreatLearning-PGP-AIML/blob/c14754c19dac373cd2c19dde3b3312b15146fc7c/01.%20Applied%20Statistics/Project%201%20-%20Statistical%20Learning_Healthcare.ipynb)**
-   - Covers Hypothesis Testing, Data Visualization and Statistical Inference.
-      -  This project[:bookmark:](https://github.com/shruti18j/GreatLearning-PGP-AIML/blob/c14754c19dac373cd2c19dde3b3312b15146fc7c/01.%20Applied%20Statistics/Project%201%20-%20Statistical%20Learning_Healthcare.ipynb) uses Hypothesis Testing and Visualization to leverage customer's health information like smoking habits, bmi, age, and gender for checking statistical evidence to make valuable decisions of insurance business like charges for health insurance.
+**01. [Statistical Learning(Applied Satistics)](https://github.com/shruti18j/GreatLearning-PGP-AIML/blob/c14754c19dac373cd2c19dde3b3312b15146fc7c/01.%20Applied%20Statistics/Project%201%20-%20Statistical%20Learning_Healthcare.ipynb)**
+
+:clipboard: Health Insurance Domain
+
+:hammer_and_wrench: Languages and Tools : Skills and Tools Hypothesis Testing, Data Visualization and Statistical Inference.
+
+This project[:bookmark:](https://github.com/shruti18j/GreatLearning-PGP-AIML/blob/c14754c19dac373cd2c19dde3b3312b15146fc7c/01.%20Applied%20Statistics/Project%201%20-%20Statistical%20Learning_Healthcare.ipynb) uses Hypothesis Testing and Visualization to leverage customer's health information like smoking habits, bmi, age, and gender for checking statistical evidence to make valuable decisions of insurance business like charges for health insurance.
 
 
 <!--
