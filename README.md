@@ -49,7 +49,7 @@ This project[:bookmark:](https://github.com/shruti18j/GreatLearning-PGP-AIML/blo
 
 **02. [Supervised Learning](https://github.com/shruti18j/GreatLearning-PGP-AIML/blob/60c83c9aeeba8deb83eb0e264863726af76f17a3/02.%20Supervised%20Machine%20Learning/Bank%20Customer%20Analysis/Project_2_Supervised_Learning_Banking.ipynb)**
 
-:clipboard: Health Insurance 
+:clipboard: Identifying potential customers for loans 
 
 :hammer_and_wrench: Skills and Tools :  Logistic Regression, KNN, Classification.
 
