@@ -6,7 +6,7 @@ Source code, resources and projects as part of Great Learning's PGP - Artificial
 - [Machine Learning](#machine-learning)
 - [Artificial Intelligence](#artificial-intelligence)
 - [Additional Modules](#additional-modules)
-- [Project_Links](#project-links)
+- [Project Links](#project-links)
 
 ## Foundations
 The Foundations block comprises of two courses where we get our hands dirty with Statistics and Code, head-on. These two courses set our foundations so that we sail through the rest of the journey with minimal hindrance.
@@ -17,7 +17,7 @@ The Foundations block comprises of two courses where we get our hands dirty with
 ## Machine Learning
 The ML block will teach us Machine Learning techniques and all the popularly used in Classical ML algorithms that fall in each of the categories.
 
-- [ ] Supervised Learning
+- [x] Supervised Learning
 - [ ] Unsupervised Learning
 - [ ] Ensemble Techniques
 - [ ] Featurization, Model Selection & Tuning
@@ -41,11 +41,19 @@ The AI block will take us beyond the traditional ML into the realm of Neural Net
 ## Project Links
 **01. [Statistical Learning(Applied Satistics)](https://github.com/shruti18j/GreatLearning-PGP-AIML/blob/c14754c19dac373cd2c19dde3b3312b15146fc7c/01.%20Applied%20Statistics/Project%201%20-%20Statistical%20Learning_Healthcare.ipynb)**
 
-:clipboard: Health Insurance Domain
+:clipboard: Health Insurance 
 
-:hammer_and_wrench: Languages and Tools : Skills and Tools Hypothesis Testing, Data Visualization and Statistical Inference.
+:hammer_and_wrench: Skills and Tools :  Hypothesis Testing, Data Visualization and Statistical Inference.
 
 This project[:bookmark:](https://github.com/shruti18j/GreatLearning-PGP-AIML/blob/c14754c19dac373cd2c19dde3b3312b15146fc7c/01.%20Applied%20Statistics/Project%201%20-%20Statistical%20Learning_Healthcare.ipynb) uses Hypothesis Testing and Visualization to leverage customer's health information like smoking habits, bmi, age, and gender for checking statistical evidence to make valuable decisions of insurance business like charges for health insurance.
+
+**02. [Supervised Learning](https://github.com/shruti18j/GreatLearning-PGP-AIML/blob/60c83c9aeeba8deb83eb0e264863726af76f17a3/02.%20Supervised%20Machine%20Learning/Bank%20Customer%20Analysis/Project_2_Supervised_Learning_Banking.ipynb)**
+
+:clipboard: Health Insurance 
+
+:hammer_and_wrench: Skills and Tools :  Logistic Regression, KNN, Classification.
+
+This project[:bookmark:](https://github.com/shruti18j/GreatLearning-PGP-AIML/blob/60c83c9aeeba8deb83eb0e264863726af76f17a3/02.%20Supervised%20Machine%20Learning/Bank%20Customer%20Analysis/Project_2_Supervised_Learning_Banking.ipynb) identified potential loan customers for Thera Bank using classification techniques. Compared models built with Logistic Regression and KNN algorithm in order to select the best performing one.
 
 
 <!--
