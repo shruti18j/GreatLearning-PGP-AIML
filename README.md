@@ -47,6 +47,12 @@ The AI block will take us beyond the traditional ML into the realm of Neural Net
 
 This project[:bookmark:](https://github.com/shruti18j/GreatLearning-PGP-AIML/blob/c14754c19dac373cd2c19dde3b3312b15146fc7c/01.%20Applied%20Statistics/Project%201%20-%20Statistical%20Learning_Healthcare.ipynb) uses Hypothesis Testing and Visualization to leverage customer's health information like smoking habits, bmi, age, and gender for checking statistical evidence to make valuable decisions of insurance business like charges for health insurance.
 
+:clipboard: Analysing the performance of football teams 
+
+:hammer_and_wrench: Skills and Tools :  Statistics, Python, EDA.
+
+This project[:bookmark:](https://github.com/shruti18j/GreatLearning-PGP-AIML/blob/c14754c19dac373cd2c19dde3b3312b15146fc7c/01.%20Applied%20Statistics/Project%201%20-%20Statistical%20Learning_Healthcare.ipynb) analysed historical data about football teams which have participated in the the La Liga Cup and calculated various metrics which can be used as indicators of success for teams in the tournament.
+
 **02. [Supervised Learning](https://github.com/shruti18j/GreatLearning-PGP-AIML/blob/60c83c9aeeba8deb83eb0e264863726af76f17a3/02.%20Supervised%20Machine%20Learning/Bank%20Customer%20Analysis/Project_2_Supervised_Learning_Banking.ipynb)**
 
 :clipboard: Identifying potential customers for loans 
